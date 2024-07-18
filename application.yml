@@ -1,3 +1,6 @@
+spring:
+  application:
+       name: CONFIG-DEFAULT-NAME
 
 
 eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
